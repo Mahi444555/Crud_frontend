@@ -1,0 +1,58 @@
+/* Add this CSS to your styles file or component */
+
+.container {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 800px;
+  }
+  
+  .filter-section {
+    margin-bottom: 20px;
+  }
+  
+  .filter-section input {
+    margin-right: 10px;
+    padding: 5px;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .table th, .table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  .table td {
+    background-color: #fff;
+  }
+  
+  .no-data-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .no-data-container img {
+    height: 250px;
+    width: 100%;
+    border: 1px solid black;
+    background-position: center;
+  }
+  
+  .no-data-container h1 {
+    color: red;
+    font-family: monospace;
+  }
+  
+  .add_btn {
+    text-align: right;
+  }
+  
